@@ -1,16 +1,20 @@
-## Hi there 👋
+# 🛑 THIS ACCOUNT IS UNMAINTAINED
 
-<!--
-**drevenant7/drevenant7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**This profile (`drevenant-7`) is no longer active, checked, or maintained.** 
 
-Here are some ideas to get you started:
+I have officially rebranded and shifted all of my development work, repositories, and releases over to my new official GitHub account.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🚀 Zenith Launcher (iOS & iPadOS)
+The official, active codebase and nightly releases for **Zenith Launcher** are now hosted exclusively at:
+
+👉 **[Zenith-Launcher](https://github.com/thenullastris/Zenith-Launcher)**
+
+### 👤 Follow My New Profile
+For all future updates, contributions, and active projects, please follow my new identity here:
+
+👉 **[@TheNullAstris](https://github.com/thenullastris)**
+
+---
+_Thank you to the community for your ongoing support. See you over at the new hub!_
